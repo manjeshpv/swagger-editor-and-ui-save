@@ -1,0 +1,7 @@
+div#floating {
+  position: absolute;
+  left: 20px;
+  top: 60px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
